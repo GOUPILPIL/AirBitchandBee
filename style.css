@@ -1,0 +1,28 @@
+.bigfont {
+   font-size: 45px;
+   font: bold;
+}
+.aircolor{
+	   color:#fd5c63;
+}
+header{
+	font-weight: bold;
+}
+
+.footer .footer__contact__form3 li, .footer .footer__contact__form4 li, .footer .footer__contact__form5 li {
+  list-style-type: none; }
+.footer .footer__contact__form3 li:nth-child(1), .footer .footer__contact__form4 li:nth-child(1), .footer .footer__contact__form5 li:nth-child(1) {
+  font-weight: bold;
+  margin-bottom: 10px; }
+
+.footer {
+  color: #767676; }
+  .footer .footer__copyright .footer__copyright__first-content img {
+    margin-right: 10px; }
+  .footer .footer__copyright .footer__copyright__second-content a {
+    color: #767676;
+    margin-left: 7px; }
+    .footer .footer__copyright .footer__copyright__second-content a:hover {
+      text-decoration: underline; }
+
+/*# sourceMappingURL=style.css.map */
